@@ -1,0 +1,58 @@
+{
+  "modsPath": "mods",
+  "otherPath": "other",
+  "metadataPath": "metadata",
+  "outputPrefixFileName": "IMPACT-1.1.0",
+  "clientOnlyMods": [
+    "OptiFine",
+    "AromaBackup",
+    "bettercrashes",
+    "BetterQuesting",
+    "Chicken Chunk Patcher",
+    "ChunkAnimator",
+    "CraftPresence",
+    "fastcraft",
+    "InGameInfoXML",
+    "INpureCore",
+    "InventoryTweaks",
+    "journeymap",
+    "legiblenei",
+    "LoadingScreen",
+    "MobiusCore",
+    "MouseTweaks"
+  ],
+  "autoUpdateMods": [
+    {
+      "fileName": "Impact-API-0.0.4.jar",
+      "downloadLink": "https://maven.accident.space/repository/maven-public/space/impact/Impact-API/0.0.4/Impact-API-0.0.4.jar"
+    },
+    {
+      "fileName": "Forgelin-2.0.3.jar",
+      "downloadLink": "https://maven.accident.space/repository/maven-public/space/impact/Forgelin/2.0.3/Forgelin-2.0.3.jar"
+    },
+    {
+      "fileName": "gregtech-impact-5.09.35.25.jar",
+      "downloadLink": "https://maven.accident.space/repository/maven-public/space/impact/gregtech-impact/5.09.35.25/gregtech-impact-5.09.35.25.jar"
+    },
+    {
+      "fileName": "Impact-core-1.1.0.21.jar",
+      "downloadLink": "https://maven.accident.space/repository/maven-public/space/impact/Impact-core/1.1.0.21/Impact-core-1.1.0.21.jar"
+    },
+    {
+      "fileName": "Packet-Network-1.1.8.jar",
+      "downloadLink": "https://maven.accident.space/repository/maven-public/space/impact/Packet-Network/1.1.8/Packet-Network-1.1.8.jar"
+    },
+    {
+      "fileName": "VirtualWorld-1.4.1.jar",
+      "downloadLink": "https://maven.accident.space/repository/maven-public/space/impact/VirtualWorld/1.4.1/VirtualWorld-1.4.1.jar"
+    },
+    {
+      "fileName": "VisualProspecting-1.3.2.jar",
+      "downloadLink": "https://maven.accident.space/repository/maven-public/space/impact/VisualProspecting/1.3.2/VisualProspecting-1.3.2.jar"
+    },
+    {
+      "fileName": "WAILAPlugins-0.3.1.jar",
+      "downloadLink": "https://maven.accident.space/repository/maven-public/space/impact/WAILAPlugins/0.3.1/WAILAPlugins-0.3.1.jar"
+    }
+  ]
+}
