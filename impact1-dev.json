@@ -19,7 +19,8 @@
     "legiblenei",
     "LoadingScreen",
     "MobiusCore",
-    "MouseTweaks"
+    "MouseTweaks",
+    "duradisplay"
   ],
   "autoUpdateMods": [
     {
@@ -27,24 +28,28 @@
       "downloadLink": "https://maven.accident.space/repository/maven-public/space/impact/Impact-API/0.0.4/Impact-API-0.0.4.jar"
     },
     {
+      "fileName": "RecipeModule-1.1.0.2.jar",
+      "downloadLink": "https://maven.accident.space/repository/maven-public/space/impact/RecipeModule/1.1.0.2/RecipeModule-1.1.0.2.jar"
+    },
+    {
       "fileName": "Forgelin-2.0.3.jar",
       "downloadLink": "https://maven.accident.space/repository/maven-public/space/impact/Forgelin/2.0.3/Forgelin-2.0.3.jar"
     },
     {
-      "fileName": "gregtech-impact-5.09.35.25.jar",
-      "downloadLink": "https://maven.accident.space/repository/maven-public/space/impact/gregtech-impact/5.09.35.25/gregtech-impact-5.09.35.25.jar"
+      "fileName": "gregtech-impact-5.09.35.27.jar",
+      "downloadLink": "https://maven.accident.space/repository/maven-public/space/impact/gregtech-impact/5.09.35.27/gregtech-impact-5.09.35.27.jar"
     },
     {
-      "fileName": "Impact-core-1.1.0.21.jar",
-      "downloadLink": "https://maven.accident.space/repository/maven-public/space/impact/Impact-core/1.1.0.21/Impact-core-1.1.0.21.jar"
+      "fileName": "Impact-core-1.1.0.24.jar",
+      "downloadLink": "https://maven.accident.space/repository/maven-public/space/impact/Impact-core/1.1.0.24/Impact-core-1.1.0.24.jar"
     },
     {
       "fileName": "Packet-Network-1.1.8.jar",
       "downloadLink": "https://maven.accident.space/repository/maven-public/space/impact/Packet-Network/1.1.8/Packet-Network-1.1.8.jar"
     },
     {
-      "fileName": "VirtualWorld-1.4.1.jar",
-      "downloadLink": "https://maven.accident.space/repository/maven-public/space/impact/VirtualWorld/1.4.1/VirtualWorld-1.4.1.jar"
+      "fileName": "VirtualWorld-1.5.0.jar",
+      "downloadLink": "https://maven.accident.space/repository/maven-public/space/impact/VirtualWorld/1.5.0/VirtualWorld-1.5.0.jar"
     },
     {
       "fileName": "VisualProspecting-1.3.2.jar",
