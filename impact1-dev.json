@@ -21,42 +21,31 @@
     "MouseTweaks",
     "duradisplay"
   ],
-  "autoUpdateMods": [
+  "mavenMods": [
     {
-      "fileName": "Impact-API-0.0.4.jar",
-      "downloadLink": "https://maven.accident.space/repository/maven-public/space/impact/Impact-API/0.0.4/Impact-API-0.0.4.jar"
+      "artefactName": "Impact-API"
     },
     {
-      "fileName": "RecipeModule-1.1.0.2.jar",
-      "downloadLink": "https://maven.accident.space/repository/maven-public/space/impact/RecipeModule/1.1.0.2/RecipeModule-1.1.0.2.jar"
+      "artefactName": "Forgelin"
     },
     {
-      "fileName": "Forgelin-2.0.3.jar",
-      "downloadLink": "https://maven.accident.space/repository/maven-public/space/impact/Forgelin/2.0.3/Forgelin-2.0.3.jar"
+      "artefactName": "gregtech-impact"
     },
     {
-      "fileName": "gregtech-impact-5.09.35.27.jar",
-      "downloadLink": "https://maven.accident.space/repository/maven-public/space/impact/gregtech-impact/5.09.35.27/gregtech-impact-5.09.35.27.jar"
+      "artefactName": "Impact-core"
     },
     {
-      "fileName": "Impact-core-1.1.0.24.jar",
-      "downloadLink": "https://maven.accident.space/repository/maven-public/space/impact/Impact-core/1.1.0.24/Impact-core-1.1.0.24.jar"
+      "artefactName": "Packet-Network"
     },
     {
-      "fileName": "Packet-Network-1.1.8.jar",
-      "downloadLink": "https://maven.accident.space/repository/maven-public/space/impact/Packet-Network/1.1.8/Packet-Network-1.1.8.jar"
+      "artefactName": "VirtualWorld"
     },
     {
-      "fileName": "VirtualWorld-1.5.0.jar",
-      "downloadLink": "https://maven.accident.space/repository/maven-public/space/impact/VirtualWorld/1.5.0/VirtualWorld-1.5.0.jar"
+      "artefactName": "VisualProspecting"
     },
     {
-      "fileName": "VisualProspecting-1.3.2.jar",
-      "downloadLink": "https://maven.accident.space/repository/maven-public/space/impact/VisualProspecting/1.3.2/VisualProspecting-1.3.2.jar"
-    },
-    {
-      "fileName": "WAILAPlugins-0.3.1.jar",
-      "downloadLink": "https://maven.accident.space/repository/maven-public/space/impact/WAILAPlugins/0.3.1/WAILAPlugins-0.3.1.jar"
+      "artefactName": "WAILAPlugins"
     }
-  ]
+  ],
+  "autoUpdateMods": []
 }
