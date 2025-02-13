@@ -23,6 +23,9 @@
   ],
   "mavenMods": [
     {
+      "artefactName": "RecipeModule"
+    },
+    {
       "artefactName": "Impact-API"
     },
     {
