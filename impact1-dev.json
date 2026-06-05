@@ -26,7 +26,7 @@
       "artefactName": "RecipeModule"
     },
     {
-      "artefactName": "Impact-API"
+      "artefactName": "ImpactAPI"
     },
     {
       "artefactName": "Forgelin"
@@ -35,10 +35,10 @@
       "artefactName": "gregtech-impact"
     },
     {
-      "artefactName": "Impact-core"
+      "artefactName": "Impact-Core"
     },
     {
-      "artefactName": "Packet-Network"
+      "artefactName": "Packet-network"
     },
     {
       "artefactName": "VirtualWorld"
