@@ -2,7 +2,8 @@
   "modsPath": "mods",
   "otherPath": "other",
   "metadataPath": "metadata",
-  "outputPrefixFileName": "IMPACT-1.1.0",
+  "outputPrefixFileName": "IMPACT",
+  "version": "1.1.0",
   "clientOnlyMods": [
     "OptiFine",
     "AromaBackup",
